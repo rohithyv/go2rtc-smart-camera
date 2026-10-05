@@ -173,7 +173,7 @@ docker run --rm \
   -p 8554:8554 \
   -p 8555:8555/tcp \
   -p 8555:8555/udp \
-  alexxit/go2rtc
+  rohithyv/smart-camera-streaming
 ```
 
 ## Security
@@ -196,3 +196,10 @@ Through this project, I focused on:
 - Docker-based service deployment
 - Real-time media system architecture
 - Stream health and connection monitoring
+
+
+## Acknowledgments
+
+This project is based on the open-source go2rtc project by AlexxIT.
+
+The original license and copyright notices are preserved in this repository.
